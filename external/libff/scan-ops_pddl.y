@@ -26,7 +26,7 @@
   extern int yydebug=1;
 #endif
 
-#define YYMAXDEPTH 1000000
+#define YYMAXDEPTH 10000000
 
 #include <stdio.h>
 #include <string.h> 
